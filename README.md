@@ -19,8 +19,8 @@ API Should Support:
 * Creating a questionnaire
 * Taking a questionnaire
 * Deleting a questionnaire
-* A questionnaire should consist of questionnaire questions and each question should have yes/no (true/false) answers
 * Getting Results of a questionnaire
+* A questionnaire should consist of questions and each question should have yes/no (true/false) answers
 * We should get a comparative result from last answered questionnaire.
 
 Note: no frontend is needed and any submitted will not be part of review.
